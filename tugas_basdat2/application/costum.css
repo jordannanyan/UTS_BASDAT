@@ -1,0 +1,20 @@
+.sidebar {
+    background-color: #3a3734;
+    margin-left: 0;
+    border-radius: 0 10px 10px 0;
+    font-family: 'Montserrat', sans-serif; /* Use a modern font */
+    font-weight: bold; /* Make the letter bold */
+    font-size: 15px;
+}
+.sidebar a:hover {
+    background-color: #757575;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  .sidebar a {
+    color: rgb(255, 255, 255);
+  }
+
+
+  
